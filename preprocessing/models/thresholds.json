@@ -1,0 +1,7 @@
+{
+  "build_duration_sec": 3494.0,
+  "test_duration_sec": 2330.0,
+  "deploy_duration_sec": 1749.0,
+  "cpu_usage_pct": 92.45,
+  "memory_usage_mb": 31775.059999999998
+}
